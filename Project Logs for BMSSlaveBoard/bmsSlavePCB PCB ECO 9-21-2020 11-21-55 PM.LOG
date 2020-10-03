@@ -1,0 +1,34 @@
+Added Component: Designator=T0(PE-68386NL_PUL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Component: Designator=T1(PE-68386NL_PUL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Component: Designator=T2(PE-68386NL_PUL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=In1-A Pin=T0-1
+Added Pin To Net: NetName=NetR1_1 Pin=T0-3
+Added Pin To Net: NetName=NetR1_2 Pin=T0-4
+Added Pin To Net: NetName=IPB-1 Pin=T1-1
+Added Pin To Net: NetName=IMB-1 Pin=T1-2
+Added Pin To Net: NetName=NetR40_2 Pin=T2-1
+Added Pin To Net: NetName=NetR40_1 Pin=T2-2

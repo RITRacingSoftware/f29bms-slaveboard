@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=In1-A Pin=P0-1
+Removed Pin From Net: NetName=In1-B Pin=P0-2
+Removed Pin From Net: NetName=IPB-1 Pin=P1-1
+Removed Pin From Net: NetName=IMB-1 Pin=P1-2
+Removed Pin From Net: NetName=To2-A Pin=P1-3
+Removed Pin From Net: NetName=IMA-2 Pin=P1-4
+Removed Member From Class: ClassName=BMSSlaveSchematic Member=P0
+Removed Member From Class: ClassName=BMSSlaveSchematic Member=P1
+Removed Member From Class: ClassName=BMSSlaveSchematic Member=P2
+Added Component: Designator=T0(PE-68386NL_PUL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Component: Designator=T1(PE-68386NL_PUL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Component: Designator=T2(PE-68386NL_PUL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vtop Pin=C0-2
+Added Pin To Net: NetName=In1-A Pin=T0-1
+Added Pin To Net: NetName=IPB-1 Pin=T1-1
+Added Pin To Net: NetName=IMB-1 Pin=T1-2
+Added Pin To Net: NetName=Vtop Pin=U0-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T0-3
+Added Pin To Net: NetName=NetR1_1 Pin=U0-41
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=T0-4
+Added Pin To Net: NetName=NetR1_2 Pin=U0-42
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=T2-2
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=T2-1
+Added Net: Name=NetR40_2
+Added Member To Class: ClassName=BMSSlaveSchematic Member=Component T0 PE-68386NLT
+Added Member To Class: ClassName=BMSSlaveSchematic Member=Component T1 PE-68386NLT
+Added Member To Class: ClassName=BMSSlaveSchematic Member=Component T2 PE-68386NLT

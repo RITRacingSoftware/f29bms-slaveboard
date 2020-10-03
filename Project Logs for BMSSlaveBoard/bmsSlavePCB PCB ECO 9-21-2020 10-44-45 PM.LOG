@@ -1,0 +1,11 @@
+Added Component: Designator=F0(Fuse, 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MFU0805FF01000P100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Vishay_2010-01-01_FUSE_MFU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "VISHAY"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF0_1 Pin=F0-1
+Added Pin To Net: NetName=NetF0_2 Pin=F0-2

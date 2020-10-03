@@ -1,0 +1,45 @@
+Added Component: Designator=J0(43650-0209)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/418/NG_CD_1445088_A1-614413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43650-0209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "13Aug2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(43650-0209)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/418/NG_CD_1445088_A1-614413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43650-0209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "13Aug2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(43650-0609)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/418/NG_CD_1445088_A1-614413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43650-0609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "13Aug2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=In1-A Pin=J0-1
+Added Pin To Net: NetName=In1-B Pin=J0-2
+Added Pin To Net: NetName=Out2-A Pin=J1-1
+Added Pin To Net: NetName=GPIO1 Pin=J2-1
+Added Pin To Net: NetName=1-C0 Pin=J2-2
+Added Pin To Net: NetName=GPIO2 Pin=J2-3
+Added Pin To Net: NetName=1-C0 Pin=J2-4
+Added Pin To Net: NetName=GPIO3 Pin=J2-5
+Added Pin To Net: NetName=1-C0 Pin=J2-6
+Added Member To Class: ClassName=BMSSlaveSchematic Member=Component J0 43650-0209
+Added Member To Class: ClassName=BMSSlaveSchematic Member=Component J1 43650-0209
+Added Member To Class: ClassName=BMSSlaveSchematic Member=Component J2 43650-0609

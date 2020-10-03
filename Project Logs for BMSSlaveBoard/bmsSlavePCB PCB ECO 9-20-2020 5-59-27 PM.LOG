@@ -1,0 +1,38 @@
+Change Component Comment : Designator=F0 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F1 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F2 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F3 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F4 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F5 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F6 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F7 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F8 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F9 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F10 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F11 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F12 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F13 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F14 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F15 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F16 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F17 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F18 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=F19 Old Comment=0805 Fuse New Comment=1A 0805 Fuse
+Change Component Comment : Designator=R4 Old Comment=ERJ-6GEYJ122V New Comment=1200R 5% 0805
+Change Component Comment : Designator=R44 Old Comment=ERJ-6GEYJ122V New Comment=1200R 5% 0805
+Change Component Comment : Designator=P0 Old Comment=HM2101NLT Pulse Transformer New Comment=PE-68386NLT 
+Change Component Comment : Designator=P1 Old Comment=HM2101NLT Pulse Transformer New Comment=PE-68386NLT 
+Change Component Comment : Designator=P2 Old Comment=HM2101NLT Pulse Transformer New Comment=PE-68386NLT 
+Change Component Comment : Designator=R3 Old Comment=RG2012P-101-D-T5 New Comment=100R
+Change Component Comment : Designator=R1 Old Comment=RG2012P-101-D-T5 New Comment=120R
+Change Component Comment : Designator=R40 Old Comment=RG2012P-101-D-T5 New Comment=120R
+Change Component Comment : Designator=C0 Old Comment=VJ0805Y104KXAMR New Comment=0.1uF
+Change Component Comment : Designator=C1 Old Comment=VJ0805Y104KXAMR New Comment=0.1uF
+Change Component Comment : Designator=C17 Old Comment=VJ0805Y104KXAMR New Comment=0.1uF
+Change Component Comment : Designator=C18 Old Comment=VJ0805Y104KXAMR New Comment=0.1uF
+Change Component Description : Designator=P0 Old Description=XFMR CMC MODULE AECQ BATT MNGT New Description=XFMR CMC MODULE AECQ BATT MNGT
+Fits HM2101NLT footprint
+Change Component Description : Designator=P1 Old Description=XFMR CMC MODULE AECQ BATT MNGT New Description=XFMR CMC MODULE AECQ BATT MNGT
+Fits HM2101NLT footprint
+Change Component Description : Designator=P2 Old Description=XFMR CMC MODULE AECQ BATT MNGT New Description=XFMR CMC MODULE AECQ BATT MNGT
+Fits HM2101NLT footprint
