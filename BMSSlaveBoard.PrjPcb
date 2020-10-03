@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PHBFRZJW
 
 [Document2]
-DocumentPath=..\..\Dashboard\SinglePad.SchLib
+DocumentPath=SinglePad.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,24 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DAKVDNYY
 
 [Document4]
-DocumentPath=C:\Users\pilot\Documents\FSAE\NDS332P\ul_NDS331N\AltiumDesigner\2020-09-22_03-27-28\NDS332P.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DDAYNCIT
-
-[Document5]
-DocumentPath=..\..\Dashboard\SinglePad.PcbLib
+DocumentPath=SinglePad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,6 +104,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVAEPPJI
+
+[Document5]
+DocumentPath=NDS332P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DDAYNCIT
 
 [Document6]
 DocumentPath=SlaveBoardFootprints.PcbLib
