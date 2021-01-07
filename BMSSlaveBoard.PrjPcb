@@ -175,6 +175,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDITSRNM
 
+[Document9]
+DocumentPath=BalCircuit.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NJJWXQIY
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1140,7 +1157,7 @@ ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=LEDs.IntLib
-ComponentDesignItemID2=
+ComponentDesignItemID2=LED, TH
 ComponentSymbolReference2=LED, TH
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
