@@ -40,6 +40,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PCB\bmsSlavePCB_R.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IDITSRNM
+
+[Document2]
+DocumentPath=PCB\bmsSlavePCB_L.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IDITSRNM
+
+[Document3]
 DocumentPath=BMSSlaveSchematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHBFRZJW
 
-[Document2]
+[Document4]
 DocumentPath=LED's.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNXKYYSN
 
-[Document3]
+[Document5]
 DocumentPath=SinglePad.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDYGQFXS
 
-[Document4]
+[Document6]
 DocumentPath=Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAKVDNYY
 
-[Document5]
+[Document7]
 DocumentPath=LED's.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGOLURRB
 
-[Document6]
+[Document8]
 DocumentPath=SinglePad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVAEPPJI
 
-[Document7]
+[Document9]
 DocumentPath=NDS332P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDAYNCIT
 
-[Document8]
+[Document10]
 DocumentPath=SlaveBoardFootprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDVLBBBG
 
-[Document9]
+[Document11]
 DocumentPath=otherComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,24 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXWRQJSP
 
-[Document10]
-DocumentPath=PCB\bmsSlavePCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IDITSRNM
-
-[Document11]
+[Document12]
 DocumentPath=BalCircuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
