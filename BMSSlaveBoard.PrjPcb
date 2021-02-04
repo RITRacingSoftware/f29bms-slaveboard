@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for BMSSlaveBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -243,11 +243,220 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJJWXQIY
 
+[Document13]
+DocumentPath=Job2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for BMSSlaveBoard\Design Rule Check - bmsSlavePCB_L.html
+DocumentPath=Project Outputs for Free Documents\NC Drill\bmsSlavePCB_L.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\NC Drill\bmsSlavePCB_L.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_L.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\NC Drill\bmsSlavePCB_L.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\NC Drill\bmsSlavePCB_R.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Free Documents\NC Drill\bmsSlavePCB_R.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.REP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Free Documents\Gerber\bmsSlavePCB_R.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\NC Drill\bmsSlavePCB_R.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for BMSSlaveBoard\Design Rule Check - bmsSlavePCB_L.html
+DItemRevisionGUID=
+
+[GeneratedDocument50]
 DocumentPath=Project Outputs for BMSSlaveBoard\Design Rule Check - bmsSlavePCB_R.html
 DItemRevisionGUID=
 
@@ -298,7 +507,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for BMSSlaveBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -827,6 +1036,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
