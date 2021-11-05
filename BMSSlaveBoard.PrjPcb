@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NJJWXQIY
 
 [Document4]
+DocumentPath=intlibs\Connectors\Connectors.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OTJGNYGU
+
+[Document5]
 DocumentPath=LED's.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNXKYYSN
 
-[Document5]
+[Document6]
 DocumentPath=SinglePad.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDYGQFXS
 
-[Document6]
+[Document7]
 DocumentPath=Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DAKVDNYY
 
-[Document7]
+[Document8]
 DocumentPath=LED's.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGOLURRB
 
-[Document8]
+[Document9]
 DocumentPath=SinglePad.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVAEPPJI
 
-[Document9]
+[Document10]
 DocumentPath=NDS332P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDAYNCIT
 
-[Document10]
+[Document11]
+DocumentPath=intlibs\Connectors\Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MWWJKKQA
+
+[Document12]
 DocumentPath=SlaveBoardFootprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDVLBBBG
 
-[Document11]
+[Document13]
 DocumentPath=otherComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXWRQJSP
 
-[Document12]
+[Document14]
 DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
